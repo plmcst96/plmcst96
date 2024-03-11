@@ -12,15 +12,6 @@
 
 - ⚡ Fun fact **I like be funny**
 
-<h2 align="left">Hi 👋! My name is  Cristina. and I'm a Full-stack developer!</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=plmcst96&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
