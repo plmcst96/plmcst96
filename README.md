@@ -69,50 +69,5 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
 
-<div align="left">
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/plmcst96/plmcst96/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img src="https://raw.githubusercontent.com/plmcst96/plmcst96/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/plmcst96/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
