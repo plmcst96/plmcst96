@@ -1,5 +1,6 @@
 
-<img width="100%" heigth="20%" alt="coding bunner" src="![Ivory Black Minimalist Name Business Consultant LinkedIn Banner-2](https://github.com/plmcst96/plmcst96/assets/139576488/3d0e51b0-d3ef-4e4d-8539-827274d0557a)
+<img width="100%" heigth="20%" alt="coding bunner" src="
+  http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png
 "/>
 <h1 align="center">Hi 👋, I'm Cristina Palmisani</h1>
 <h3 align="center">A passionate Full-Stack developer from Italy</h3>
