@@ -1,7 +1,5 @@
 
-<img width="100%" heigth="20%" alt="coding bunner" src="
-  http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png
-"/>
+<img width="100%" heigth="20%" alt="coding bunner" src="[http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png](https://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png)"/>
 <h1 align="center">Hi 👋, I'm Cristina Palmisani</h1>
 <h3 align="center">A passionate Full-Stack developer from Italy</h3>
 
