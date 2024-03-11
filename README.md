@@ -2,7 +2,7 @@
 
 <img width="100%" heigth="20%" alt="coding bunner" src="http://res.cloudinary.com/dakmluxbm/image/upload/v1710160435/gzk8kjhmccgi5haputiu.png"/>
 
-<h3 align="center">A passionate Full-Stack developer from Italy</h3>
+<p align="left">I am a junior full stack developer with a passion for art and computer science. I use my creativity to create projects with a UX and UI experience that allows not only functionality but also the wow effect that intrigues the viewer.</p>
 
 - 🌱 I’m currently learning **Front-end and Back-end languages**
 
